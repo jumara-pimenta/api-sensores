@@ -3,7 +3,7 @@
       "id":1, 
       "name":"Sala", 
       "temperature":20,
-      "image": "https://br.freepik.com/icones-gratis/degrees-mercury-termometro_767154.htm",
+      "image": "https://image.flaticon.com/icons/png/512/70/70597.png",
       "device":[
           {"name":"tv", "consumption": 15.75, "hours":6},
           {"name":"ar condicionado", "consumption": 62.25, "hours":2},
@@ -14,7 +14,7 @@
       "id":2, 
       "name":"Cozinha", 
       "temperature":20,
-      "image": "https://br.freepik.com/icones-gratis/degrees-mercury-termometro_767154.htm",
+      "image": "https://image.flaticon.com/icons/png/512/70/70597.png",
       "device":[    
           {"name":"microondas", "consumption": 110.70, "hours":3},
           {"name":"lampada", "consumption": 2.70, "hours":6}
@@ -24,7 +24,7 @@
       "id":3, 
       "name":"Quarto 1", 
       "temperature":18,
-      "image": "https://br.freepik.com/icones-gratis/degrees-mercury-termometro_767154.htm",
+      "image": "https://image.flaticon.com/icons/png/512/70/70597.png",
       "device":[    
           {"name":"tv", "consumption": 27, "hours":8},
           {"name":"ar condicionado", "consumption": 490.80, "hours":16},
@@ -35,7 +35,7 @@
       "id":4, 
       "name":"Quarto 2", 
       "temperature":17,
-      "image": "https://br.freepik.com/icones-gratis/degrees-mercury-termometro_767154.htm",
+      "image": "https://image.flaticon.com/icons/png/512/70/70597.png",
       "device":[    
           {"name":"tv", "consumption": 10.80, "hours":2},
           {"name":"ar condicionado", "consumption": 545.40, "hours":18},
