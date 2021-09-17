@@ -4,7 +4,7 @@
       "name":"Sala", 
       "temperature":20,
       "image": "https://e7.pngegg.com/pngimages/904/395/png-clipart-mercury-in-glass-thermometer-temperature-symbol-interface-miscellaneous-degree.png",
-      "device":[    ""
+      "device":[
           {"name":"tv", "consumption": 15.75, "hours":6},
           {"name":"ar condicionado", "consumption": 62.25, "hours":2},
           {"name":"lampada", "consumption": 2.25, "hours":5}
