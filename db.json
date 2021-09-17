@@ -1,0 +1,42 @@
+{"Casa":[    
+  {
+      "id":1, 
+      "name":"Sala", 
+      "temperature":20,
+      "device":[    
+          {"name":"tv", "consumption": 15.75, "hours":6},
+          {"name":"ar condicionado", "consumption": 62.25, "hours":2},
+          {"name":"lampada", "consumption": 2.25, "hours":5}
+      ]        
+  },
+  {
+      "id":2, 
+      "name":"Cozinha", 
+      "temperature":20,
+      "device":[    
+          {"name":"microondas", "consumption": 110.70, "hours":3},
+          {"name":"lampada", "consumption": 2.70, "hours":6}
+      ]        
+  },
+  {
+      "id":3, 
+      "name":"Quarto 1", 
+      "temperature":18,
+      "device":[    
+          {"name":"tv", "consumption": 27, "hours":8},
+          {"name":"ar condicionado", "consumption": 490.80, "hours":16},
+          {"name":"lampada", "consumption": 5.40, "hours":12}
+      ]        
+  },
+  {
+      "id":4, 
+      "name":"Quarto 2", 
+      "temperature":17,
+      "device":[    
+          {"name":"tv", "consumption": 10.80, "hours":2},
+          {"name":"ar condicionado", "consumption": 545.40, "hours":18},
+          {"name":"lampada", "consumption": 8.10, "hours":18}
+      ]        
+  }
+
+]}
