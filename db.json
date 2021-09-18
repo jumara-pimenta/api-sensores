@@ -24,17 +24,17 @@
         "image": "https://image.flaticon.com/icons/png/512/70/70597.png"    
 }],
   "devices": [
-    {"name":"tv", "consumption": 15.75, "hours":6, "casaId": 1},
-    {"name":"ar condicionado", "consumption": 62.25, "hours":2, "casaId": 1},
-    {"name":"lampada", "consumption": 2.25, "hours":5, "casaId": 1},
-    {"name":"microondas", "consumption": 110.70, "hours":3, "casaId": 2},
-    {"name":"lampada", "consumption": 2.70, "hours":6, "casaId": 2},
-    {"name":"tv", "consumption": 27, "hours":8, "casaId": 3},
-    {"name":"ar condicionado", "consumption": 490.80, "hours":16, "casaId": 3},
-    {"name":"lampada", "consumption": 5.40, "hours":12, "casaId": 3},
-    {"name":"tv", "consumption": 10.80, "hours":2, "casaId": 4},
-    {"name":"ar condicionado", "consumption": 545.40, "hours":18, "casaId": 4},
-    {"name":"lampada", "consumption": 8.10, "hours":18, "casaId": 4}
+    {"name":"tv", "consumption": 15.75, "hours":6, "casaId": "sala"},
+    {"name":"ar condicionado", "consumption": 62.25, "hours":2, "casaId": "sala"},
+    {"name":"lampada", "consumption": 2.25, "hours":5, "casaId": "sala"},
+    {"name":"microondas", "consumption": 110.70, "hours":3, "casaId": "cozinha"},
+    {"name":"lampada", "consumption": 2.70, "hours":6, "casaId": "cozinha"},
+    {"name":"tv", "consumption": 27, "hours":8, "casaId": "quarto1"},
+    {"name":"ar condicionado", "consumption": 490.80, "hours":16, "casaId": "quarto1"},
+    {"name":"lampada", "consumption": 5.40, "hours":12, "casaId": "quarto1"},
+    {"name":"tv", "consumption": 10.80, "hours":2, "casaId": "quarto2"},
+    {"name":"ar condicionado", "consumption": 545.40, "hours":18, "casaId": "quarto2"},
+    {"name":"lampada", "consumption": 8.10, "hours":18, "casaId": "quarto2"}
   
   ]
 }
