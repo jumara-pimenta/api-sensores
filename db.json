@@ -29,6 +29,7 @@
     {"name":"lâmpada", "consumption": 2.25, "hours":5, "casaId": "sala"},
     {"name":"microondas", "consumption": 110.70, "hours":3, "casaId": "cozinha"},
     {"name":"lâmpada", "consumption": 2.70, "hours":6, "casaId": "cozinha"},
+    {"name":"lâmpada", "consumption": 2.70, "hours":6, "casaId": "cozinha"},
     {"name":"TV", "consumption": 27, "hours":8, "casaId": "quarto 1"},
     {"name":"ar condicionado", "consumption": 490.80, "hours":16, "casaId": "quarto 1"},
     {"name":"lâmpada", "consumption": 5.40, "hours":12, "casaId": "quarto 1"},
